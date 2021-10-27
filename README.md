@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ritik58
-- 👀 I’m Programming Analyst Trainee at COGNIZANT
+- 👀 I’m Programmer Analyst Trainee at COGNIZANT
 
 
 <!---
