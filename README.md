@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🔧 I specialize in **Test Automation** using **Playwright**, **JavaScript**, and **CI/CD tools like Azure DevOps**
 - 👨‍💻 I also have experience with **Java**, **Cucumber**, **BDD**, and backend technologies like **Spring Boot** and **MySQL**
 - 🏢 Currently working at **Cognizant** as a **Test Automation Engineer**
-- 🎯 3.7+ years of industry experience
+- 🎯 3.9+ years of industry experience
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Java
